@@ -64,5 +64,145 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-kryptos-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://kryptos.io/
+Kryptos provides a Crypto Tax, Portfolio Tracker and Finance API that connects to over 5,000 integrations across exchanges, wallets, and blockchains. It enables developers to pull holdings, transactions, DeFi, NFT and tax data through a unified endpoint, serving individuals, enterprises, and developers.
+
+**Areas:** Crypto · Finance · API · Portfolio · Tax
+
+## kryptos-io on APIs.io
+
+Everything profiled for kryptos-io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kryptos-io/](https://apis.io/providers/kryptos-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [Kryptos API](https://apis.io/apis/kryptos-io/kryptos-api/) — Kryptos provides a Crypto Tax, Portfolio Tracker & Finance API that connects to over 5,000 integrations across exchanges, wallets, and blockchains.
+- [kryptos-io api API](https://apis.io/apis/kryptos-io/api-api/) — kryptos-io api API as documented publicly: 49 operations. Contract generated from the documentation by API Evangelist (2026-10-30); not the provider's own…
+- [kryptos-io authentication API](https://apis.io/apis/kryptos-io/authentication-api/) — kryptos-io authentication API as documented publicly: 4 operations. Contract generated from the documentation by API Evangelist (2026-10-30); not the…
+- [kryptos-io core API](https://apis.io/apis/kryptos-io/core-api/) — kryptos-io core API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-10-30); not the provider's own…
+- [kryptos-io kryptos connect API](https://apis.io/apis/kryptos-io/kryptos-connect-api/) — kryptos-io kryptos connect API as documented publicly: 7 operations. Contract generated from the documentation by API Evangelist (2026-10-30); not the…
+- [kryptos-io reference API](https://apis.io/apis/kryptos-io/reference-api/) — kryptos-io reference API as documented publicly: 5 operations. Contract generated from the documentation by API Evangelist (2026-10-30); not the provider's…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (18)
+
+The data models the API reads and writes.
+
+- [GetHealthResponse](https://apis.io/schemas/kryptos-io/kryptos-io-get-health-response/)
+- [GetOidcUserinfoResponse](https://apis.io/schemas/kryptos-io/kryptos-io-get-oidc-userinfo-response/)
+- [GetTokenGrantsResponse](https://apis.io/schemas/kryptos-io/kryptos-io-get-token-grants-response/)
+- [GetV1DefiResponse](https://apis.io/schemas/kryptos-io/kryptos-io-get-v1-defi-response/)
+- [GetV1IntegrationsResponse](https://apis.io/schemas/kryptos-io/kryptos-io-get-v1-integrations-response/)
+- [GetV1LedgersResponse](https://apis.io/schemas/kryptos-io/kryptos-io-get-v1-ledgers-response/)
+- [GetV1ProvidersResponse](https://apis.io/schemas/kryptos-io/kryptos-io-get-v1-providers-response/)
+- [GetV1SyncSyncidResponse](https://apis.io/schemas/kryptos-io/kryptos-io-get-v1-sync-syncid-response/)
+- [GetV1TransactionsIdResponse](https://apis.io/schemas/kryptos-io/kryptos-io-get-v1-transactions-id-response/)
+- [GetV1TransactionsResponse](https://apis.io/schemas/kryptos-io/kryptos-io-get-v1-transactions-response/)
+- [PostDeveloperIntegrationsWalletidResyncRequest](https://apis.io/schemas/kryptos-io/kryptos-io-post-developer-integrations-walletid-resync-request/)
+- [PostDeveloperIntegrationsWalletidResyncResponse](https://apis.io/schemas/kryptos-io/kryptos-io-post-developer-integrations-walletid-resync-response/)
+- [PostLinkTokenRequest](https://apis.io/schemas/kryptos-io/kryptos-io-post-link-token-request/)
+- [PostLinkTokenResponse](https://apis.io/schemas/kryptos-io/kryptos-io-post-link-token-response/)
+- [PostMcpResponse](https://apis.io/schemas/kryptos-io/kryptos-io-post-mcp-response/)
+- [PostOidcTokenResponse](https://apis.io/schemas/kryptos-io/kryptos-io-post-oidc-token-response/)
+- [PostOidcTokenRevocationResponse](https://apis.io/schemas/kryptos-io/kryptos-io-post-oidc-token-revocation-response/)
+- [PostTokenExchangeResponse](https://apis.io/schemas/kryptos-io/kryptos-io-post-token-exchange-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Kryptos Io Context](https://apis.io/jsonld/kryptos-io/kryptos-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [kryptos-io API Rules](https://apis.io/rules/kryptos-io/kryptos-io-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kryptos Io Authentication](https://apis.io/security/kryptos-io/kryptos-io-authentication/)
+- [Kryptos Io Domain Security](https://apis.io/security/kryptos-io/kryptos-io-domain-security/)
+- [Kryptos Io Trust Center](https://apis.io/security/kryptos-io/kryptos-io-trust-center/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Kryptos Io Scopes](https://apis.io/scopes/kryptos-io/kryptos-io-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kryptos.io/)
+- [Documentation](https://docs.kryptos.io/)
+- [Getting started](https://kryptos.io/guides/carf-self-certification-tin-validation-onboarding)
+- [API reference](https://docs.kryptos.io/docs/api/overview)
+- [Pricing](https://kryptos.io/pricing)
+- [Sign up](https://app.kryptos.io/signup)
+- [Support](https://help.kryptos.io/en/)
+- [Changelog](https://docs.kryptos.io/docs/changelog)
+- [Blog](https://kryptos.io/blog)
+- [Compliance](https://kryptos.io/)
+- [Terms of service](https://kryptos.io/terms-of-services)
+- [Privacy policy](https://kryptos.io/privacy-policy)
+- [GitHub](https://github.com/Kryptoskatt)
+
+## API Evangelist rating
+
+**Kin Score 61.9** — strong · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 53.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 64.3 |
+| Access clarity | 60.5 |
+
+**Agent readiness 28.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 39.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kryptos-io/](https://apis.io/providers/kryptos-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for kryptos-io: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kryptos-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
